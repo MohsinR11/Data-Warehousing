@@ -90,13 +90,6 @@ data-warehouse-project/
 ```
 ---
 
-## ☕ Stay Connected
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-
 
 ## 🌟 About Me
 
@@ -104,5 +97,5 @@ Hi there! I'm **Mohsin Raza**. I’m an aspiring Data Analyst/Data Engineer.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
 
