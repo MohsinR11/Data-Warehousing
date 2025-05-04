@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Quality Checks - PostgreSQL Version
+Quality Checks - PostgreSQL Version (Silver Layer)
 ===============================================================================
 Script Purpose:
     Perform quality checks on the Silver Layer for:
