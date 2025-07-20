@@ -3,7 +3,7 @@
 ---
 
 Welcome to the **Data Warehouse and Analytics Project!** 🚀  
-This repository showcases a complete **data warehousing and analytics solution** — from building a robust data warehouse to creating **actionable business insights**.  
+This repository showcases a complete **data warehousing and analytics solution** - from building a robust data warehouse to creating **actionable business insights**.  
 It’s designed as a portfolio project to highlight **modern best practices** in **Data Engineering**, **ETL**, and **Analytics**.
 
 ---
@@ -13,7 +13,7 @@ It’s designed as a portfolio project to highlight **modern best practices** in
 This project follows the **Medallion Architecture** pattern with **Bronze**, **Silver**, and **Gold** layers:
 
 1. **Bronze Layer:**  
-   Raw data storage — ingests CSV files into a **SQL Server Database** as-is.
+   Raw data storage - ingests CSV files into a **SQL Server Database** as-is.
 
 2. **Silver Layer:**  
    Cleansing, standardizing, and transforming raw data into clean, reliable data sets ready for modeling.
@@ -65,7 +65,7 @@ Build a modern **SQL Server Data Warehouse** that integrates ERP and CRM data fo
 - **Data Sources:** Import CSV data from *ERP* and *CRM*.
 - **Data Quality:** Clean and validate the data to remove inconsistencies.
 - **Integration:** Merge sources into a unified, business-friendly model.
-- **Scope:** Latest snapshot only — no historization.
+- **Scope:** Latest snapshot only - no historization.
 - **Docs:** Clear data model documentation for stakeholders and the analytics team.
 
 ---
@@ -139,10 +139,10 @@ data-warehouse-project/
 
 ## ⚙️ Tech Stack
 
-- **SQL Server** — Data warehouse platform
-- **Draw.io** — Architecture and ETL diagrams
-- **Python/SQL** — For ETL and data checks (optional)
-- **Power BI/Tableau** — For final visual dashboards (optional)
+- **SQL Server** - Data warehouse platform
+- **Draw.io** - Architecture and ETL diagrams
+- **Python/SQL** - For ETL and data checks (optional)
+- **Power BI/Tableau** - For final visual dashboards (optional)
 
 ---
 
