@@ -88,28 +88,51 @@ Provide meaningful **insights** to answer key business questions.
 ## 📂 Repository Structure
 
 data-warehouse-project/
+
 │
+
 ├── datasets/ # Raw ERP and CRM CSV files
+
 │
+
 ├── docs/ # Project documentation & architecture diagrams
+
 │ ├── etl.drawio # ETL process diagram
+
 │ ├── data_architecture.drawio # Medallion Architecture diagram
+
 │ ├── data_catalog.md # Dataset dictionary with field definitions
+
 │ ├── data_flow.drawio # Data flow diagram
+
 │ ├── data_models.drawio # Star schema data model diagram
+
 │ ├── naming-conventions.md # Table, column, and file naming standards
+
 │
+
 ├── scripts/ # SQL scripts for ETL and modeling
+
 │ ├── bronze/ # Load raw data
+
 │ ├── silver/ # Clean & transform data
+
 │ ├── gold/ # Create star schema tables & views
+
 │
+
 ├── tests/ # Data quality checks and test cases
+
 │
+
 ├── README.md # Project overview and instructions
+
 ├── LICENSE # Repository license info
+
 ├── .gitignore # Ignore files and folders
+
 └── requirements.txt # Dependencies and tools
+
 
 
 ---
